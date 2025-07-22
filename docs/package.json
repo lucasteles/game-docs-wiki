@@ -1,0 +1,16 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "license": "",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "staticrypt"
+  },
+  "dependencies": {
+    "staticrypt": "^3.5.3",
+    "yargs": "^17.7.2"
+  }
+}

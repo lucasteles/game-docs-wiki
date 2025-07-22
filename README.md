@@ -5,7 +5,7 @@
 
 Template for Game Design Document Wiki Site
 
-> [!NOTE]
+> [!TIP]
 > **🔓 Default Password:** `Password@Secret!123`
 
 ## Documentation:
@@ -15,7 +15,7 @@ Template for Game Design Document Wiki Site
 
 ## How run local?
 
-you will need [.NET](https://dotnet.microsoft.com/en-us/download) installed:
+You will need [.NET](https://dotnet.microsoft.com/en-us/download) installed:
 
 On windows PowerShell execute:
 
@@ -31,3 +31,16 @@ $ cd ./docs
 $ docfx --serve
 
 ```
+
+## How to GitHub Actions?
+
+Look at [this workflow file](./.github/workflows/docs.yml)
+
+> [!NOTE]
+> This template use [staticrypt](https://github.com/robinmoisson/staticrypt) for password "protection".
+
+Set this action secrets on your repository:
+
+- `SITE_PASSWORD`: The site password
+- `SITE_SALT`: Salt for the password (must be a 32 character long hexadecimal string)
+- `STATICRYPT_REMEMBER`: How many days the user "session" will last

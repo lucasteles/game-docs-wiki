@@ -24,10 +24,10 @@ env:
   GITHUB_ACTIONS: true
 
 jobs:
-  build:
+  build_docs:
     runs-on: ubuntu-latest
     concurrency:
-      group: ${{ github.head_ref || github.ref_name }}
+      group: docs_${{ github.head_ref || github.ref_name }}
       cancel-in-progress: true
     steps:
       - name: Set environment variables
@@ -51,6 +51,8 @@ jobs:
         run: ./ci.sh
         env:
           STATICRYPT_PASSWORD: ${{ secrets.SITE_PASSWORD }}
+          STATICRYPT_SALT: ${{ secrets.SITE_SALT }}
+          STATICRYPT_REMEMBER: ${{ secrets.SITE_REMEMBER_DAYS }}
 
       - name: Build Docs (Public)
         if: env.USE_PASSWORD == 'false'

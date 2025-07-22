@@ -32,7 +32,7 @@
 
 **Features:** see [Game Modes 🔗](./game_design/game_modes.md) page
 
-**Game Design:** see [Design Document 🔗](./game_design/overview.md) page
+**Game Design:** see [Design Document 🔗](./game_design/gdd.md) page
 
 
 <br/>

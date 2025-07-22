@@ -1,6 +1,6 @@
 items:
-    - name: Overview
-      href: ./overview.md
+    - name: Design Document
+      href: ./gdd.md
 
     - name: Game Modes
       href: ./game_modes.md

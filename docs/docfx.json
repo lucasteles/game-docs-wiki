@@ -8,6 +8,7 @@
         ],
         "exclude": [
           "_site/**",
+          "node_modules/**",
           "password_template.html"
         ]
       }
@@ -50,8 +51,13 @@
     },
     "markdownEngineProperties": {
       "markdigExtensions": [
-        "tasklists",
-        "FootNotes"
+        "TaskLists",
+        "FootNotes",
+        "EmphasisExtras",
+        "MediaLinks",
+        "DefinitionLists",
+        "diagrams",
+        "emojis"
       ]
     }
   }
