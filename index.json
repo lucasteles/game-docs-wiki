@@ -1,0 +1,62 @@
+{
+  "about.html": {
+    "href": "about.html",
+    "title": "About | Docs Template Mugen",
+    "summary": "About Game design doc template by lucasteles"
+  },
+  "characters/index.html": {
+    "href": "characters/index.html",
+    "title": "All Characters | Docs Template Mugen",
+    "summary": "All Characters Main Roster Kung Fu Man Kung Fu Girl Name Name Name Name Name Name Name Name Name Name"
+  },
+  "characters/kungfugirl.html": {
+    "href": "characters/kungfugirl.html",
+    "title": "Kung Fu Man | Docs Template Mugen",
+    "summary": "Kung Fu Man Info Name: Kung Fu Girl Gender: Female Concepts Synopsis Kung Fu Girl is a female version of Kung Fu Man. She is a young woman with a busty upper body and red hair. Tip Read more about her here Move List Motion Command Name Notes Reference 236P TBD Fireball 326P TBD Dragon Punch 214P TBD Tatsu"
+  },
+  "characters/kungfuman.html": {
+    "href": "characters/kungfuman.html",
+    "title": "Kung Fu Man | Docs Template Mugen",
+    "summary": "Kung Fu Man Info Name: Kung Fu Man Gender: Male Concepts Synopsis Kung Fu Man's story begins with himself and his girlfriend going for a walk. Sometime during this walk, they are ambushed by Suave Dude and his minions; of course, Kung Fu Man fends off Suave Dude's minions, though while he is preoccupied, Suave Dude captures Kung Fu Man's girlfriend and retreats back to his secret hideout. In order to get his girlfriend back, Kung Fu Man sets off for Suave Dude's hideout, letting nothing stand in his way. Tip Read more about him here Move List Motion Command Name Notes Reference 236P TBD Fireball 326P TBD Dragon Punch 214P TBD Tatsu"
+  },
+  "characters_select.html": {
+    "href": "characters_select.html",
+    "title": "| Docs Template Mugen",
+    "summary": "Main Roster Kung Fu Man Kung Fu Girl Name Name Name Name Name Name Name Name Name Name"
+  },
+  "game_design/game_modes.html": {
+    "href": "game_design/game_modes.html",
+    "title": "Game Modes | Docs Template Mugen",
+    "summary": "Game Modes Local Story Arcade Versus Match Training Online Ranked Match Casual Match Lobby Versus Local Story Mode The story starts with... Arcade Mode Will be defined as..."
+  },
+  "game_design/gdd.html": {
+    "href": "game_design/gdd.html",
+    "title": "Design Document | Docs Template Mugen",
+    "summary": "Design Document Core Loop What is the core, repeatable gameplay loop that is central to the entire game? Usually best to diagram this. Win Condition(s) How can a player win the game? Lose Condition(s) How can a player lose the game? Features A list of key and/or additional gameplay features and mechanics or other unique elements that will round out of distinguish the game. Team Who is involved in the game development team? What are their roles? Personal Development Goal The most important part of this document - What are you personally trygint to achieve through this project? Do you want to develop your art skills, explore a certain mechanic or to finally just finish and release a game? Main Aim What is the main thing the player is trying to achieve in the game world? Mechanic to achieve Main Aim What is the main method/action the player must take to achieve that aim? Enablers Active: Actions the player takes to try to achieve the main aim. Passive: Events/objects/opportunities, things that happen, things that are found in the game that enable the player to achieve the main aim. Blockers Active: Anything that actively tries to stop the player achieving the main aim, e.g. hostile enemies. Passive: Obstacles that get in the way of the player's ability to achieve the main aim. Can be overcome (locked doors) or not (time limits)."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Game Design / Wiki | Docs Template Mugen",
+    "summary": "Game Design / Wiki Working Title: Docs Template Mugen Icon: Genre: 2D Fighting Game Theme: The main theme. Any sub-themes. Audience: Who is this game for? Visual Style: How will the game look? How will the visuals make the player feel? Include inspiration/references & guidance for the artists. Music & Sound Style: How will the game sound for both sound effects and the general musical soundscape? How will the audio make the player feel? Include inspiration/references & guidance for the sound designers Story: Overview of the main story beats, beginning middle and end, story progression, player character journey and development, plus other significant characters and their arc. Include world-building points, time/place, key landmarks, key exclusions or deviations from known worlds. Engine: Which game engine will be used? Platform: How will the game be accessed/played? Key Pillars: Key emotions/ experiences you want for the player. Keep these short - single words or short phrases. Always refer back to these pillars throughout the design and development process. Mechanics: see Systems \uD83D\uDD17 page Features: see Game Modes \uD83D\uDD17 page Game Design: see Design Document \uD83D\uDD17 page Characters Main Roster Kung Fu Man Kung Fu Girl Name Name Name Name Name Name Name Name Name Name"
+  },
+  "systems/battle.html": {
+    "href": "systems/battle.html",
+    "title": "Battle Mechanics | Docs Template Mugen",
+    "summary": "Battle Mechanics battle screen Note \uD83D\uDCA1: Add some important note! Blocking Hold or while standing close to an opponent attack. Blocking (or guarding) is the fundamental form of defense in fighting games... Throws Press Note Hold to throw your opponent backward on connect. Throws are..."
+  },
+  "systems/controls.html": {
+    "href": "systems/controls.html",
+    "title": "Controls | Docs Template Mugen",
+    "summary": "img { object-fit: contain; } Controls Regardless of control type, move in 8 directions (cardinals & diagonals) using the D-pad or joystick. Hold back to block Overhead and Mid attacks or down and back to block Mid and Low attacks. Directions DPad Basic Attacks This is a six attack button fighting game, with attack buttons spited into two categories, punches and kicks: Punches: Light Punch (LP), Medium Punch (MP), Heavy Punch (HP). Kicks: Light Kick (LK), Medium Kick (MK), Heavy Kick (HK). Button Notation Name Notation Icon Light Punch LP Medium Punch MP Heavy Punch HP Any Punch P Light Kick LK Medium Kick MK Heavy Kick HK Any Kick K Motion Notation Name Notation NumPad Icon Quarter Circle Forward QCF 236 Quarter Circle Back QCB 214 Half Circle Forward HCF 41236 Half Circle Back HCB 63214 Dragon Punch DP 623 Reverse Dragon Punch RDP 421 Full-Circle 360 / SPD 360"
+  },
+  "systems/game_data.html": {
+    "href": "systems/game_data.html",
+    "title": "Game Data | Docs Template Mugen",
+    "summary": "Game Data Characters select screen The characters are divided into well known archetypes like rushdown, zoner, shoto... Frame Data The word \"frame\" is used to represent the smallest unit of time in the game. In this game and most fighting games, one frame is 1/60 of a second, since the game runs at 60 frames per second. Every action a character takes, like walking, jumping, attacking, or blocking, can be measured in terms of frames. Frames are often abbreviated with the letter \"f\", as in 60f = 60 frames. Keeping in mind that all actions are measured in frames, moves can be further divided into phases called Startup, Active, and Recovery. Knowing the definition of each will make it much easier to interpret Frame Data. Startup: The beginning portion of an attack before it can hit the opponent; think \"winding up for a punch\" Active: The portion of an attack that can hit or grab the opponent Recovery: The ending portion of an attack that can no longer connect with the opponent, and the attacker is unable to perform any other action such as blocking. Counter-Hit A Counter-Hit occurs when you attack your opponent during their startup or active frames. Attacks that trade with each other both land as a Counter-Hit. A \"Counter Hit\" icon appears on either the P1 or P2 side of the screen, depending on who landed the hit. Counter-Hits deal an additional 10% damage and add +2 to the frame advantage..."
+  },
+  "systems/index.html": {
+    "href": "systems/index.html",
+    "title": "Systems | Docs Template Mugen",
+    "summary": "Systems Game Data Controls Battle"
+  }
+}

@@ -1,0 +1,874 @@
+{
+  "sitemap": {
+    "baseUrl": "https://lucasteles.github.io/game-docs-wiki/"
+  },
+  "source_base_path": "/home/runner/work/game-docs-wiki/game-docs-wiki/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "about.md",
+      "output": {
+        ".html": {
+          "relative_path": "about.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "characters/images/kungfugirl/full.png",
+      "output": {
+        "resource": {
+          "relative_path": "characters/images/kungfugirl/full.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "characters/images/kungfugirl/half.png",
+      "output": {
+        "resource": {
+          "relative_path": "characters/images/kungfugirl/half.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "characters/images/kungfuman/full.png",
+      "output": {
+        "resource": {
+          "relative_path": "characters/images/kungfuman/full.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "characters/images/kungfuman/half.png",
+      "output": {
+        "resource": {
+          "relative_path": "characters/images/kungfuman/half.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "characters/images/kungfuman/sprite.png",
+      "output": {
+        "resource": {
+          "relative_path": "characters/images/kungfuman/sprite.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "characters/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "characters/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "characters/kungfugirl.md",
+      "output": {
+        ".html": {
+          "relative_path": "characters/kungfugirl.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "characters/kungfuman.md",
+      "output": {
+        ".html": {
+          "relative_path": "characters/kungfuman.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "characters/portraits/blank.png",
+      "output": {
+        "resource": {
+          "relative_path": "characters/portraits/blank.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "characters/portraits/kungfugirl.png",
+      "output": {
+        "resource": {
+          "relative_path": "characters/portraits/kungfugirl.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "characters/portraits/kungfuman.png",
+      "output": {
+        "resource": {
+          "relative_path": "characters/portraits/kungfuman.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "characters/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "characters/toc.html"
+        },
+        ".json": {
+          "relative_path": "characters/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "characters_select.md",
+      "output": {
+        ".html": {
+          "relative_path": "characters_select.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon-16x16.png",
+      "output": {
+        "resource": {
+          "relative_path": "favicon-16x16.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon-32x32.png",
+      "output": {
+        "resource": {
+          "relative_path": "favicon-32x32.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "favicon.ico"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "game_design/game_modes.md",
+      "output": {
+        ".html": {
+          "relative_path": "game_design/game_modes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "game_design/gdd.md",
+      "output": {
+        ".html": {
+          "relative_path": "game_design/gdd.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "game_design/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "game_design/toc.html"
+        },
+        ".json": {
+          "relative_path": "game_design/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/0.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/0.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/1.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/2.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/3.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/360.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/360.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/4.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/5.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/6.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/7.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/7.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/8.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/8.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/9.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/9.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/dp.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/dp.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/hcb.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/hcb.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/hcf.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/hcf.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/hk.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/hk.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/hp.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/hp.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/k.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/k.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/lk.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/lk.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/lp.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/lp.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/mk.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/mk.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/mp.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/mp.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/p.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/p.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/plus.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/plus.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/qcb.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/qcb.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/qcf.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/qcf.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/hd/rdp.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/hd/rdp.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/0.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/0.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/1.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/2.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/3.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/360.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/360.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/4.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/5.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/6.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/7.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/7.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/8.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/8.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/9.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/9.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/dp.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/dp.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/hcb.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/hcb.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/hcf.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/hcf.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/hk.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/hk.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/hp.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/hp.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/k.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/k.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/lk.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/lk.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/lp.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/lp.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/mk.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/mk.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/mp.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/mp.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/p.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/p.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/plus.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/plus.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/qcb.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/qcb.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/qcf.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/qcf.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inputs/sd/rdp.png",
+      "output": {
+        "resource": {
+          "relative_path": "inputs/sd/rdp.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "logo_icon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "systems/battle.md",
+      "output": {
+        ".html": {
+          "relative_path": "systems/battle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "systems/controls.md",
+      "output": {
+        ".html": {
+          "relative_path": "systems/controls.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "systems/game_data.md",
+      "output": {
+        ".html": {
+          "relative_path": "systems/game_data.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "systems/img/battle.png",
+      "output": {
+        "resource": {
+          "relative_path": "systems/img/battle.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "systems/img/frame_data.png",
+      "output": {
+        "resource": {
+          "relative_path": "systems/img/frame_data.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "systems/img/select_screen.png",
+      "output": {
+        "resource": {
+          "relative_path": "systems/img/select_screen.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "systems/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "systems/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "systems/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "systems/toc.html"
+        },
+        ".json": {
+          "relative_path": "systems/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
